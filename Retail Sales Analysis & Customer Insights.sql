@@ -1,4 +1,4 @@
-```sql
+
 -- RETAIL SALES ANALYSIS & CUSTOMER INSIGHTS
 
 -- 1. DATA INSPECTION
@@ -194,4 +194,3 @@ ORDER BY
         WHEN 'Afternoon' THEN 2
         WHEN 'Evening' THEN 3
     END;
-```
